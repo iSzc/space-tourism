@@ -15,14 +15,14 @@ function Home() {
           <span className="title text-white font-Bellefair w640:text-8xl text-[9.5rem]">
             SPACE
           </span>
-          <span className="description text-[#d0d6f9] w480:px-2 w480:w-full w640:px-2 w640:w-[430px] w768:px-2 w1024:w-[450px] w-4/6  w1024:text-center font-Barlow w640:text-lg w1024:text-xl w640:tracking-normal w640:px-0 w768:px-8 text-justify text-xl tracking-wide font-light">
+          <span className="description text-[#d0d6f9] w480:px-2 w480:w-full w640:px-2 w640:w-[430px] w768:px-2 w1024:w-[450px] w-4/6  w1024:text-center font-Barlow w640:text-lg w1024:text-xl w640:tracking-normal w640:px-0 w768:px-8 text-justify text-xl tracking-wide font-light w1024:pb-0 pb-8">
             Let's face it; if you want to go to space, you might as well
             genuinely go to outer space and not hover king of on the edge of it.
             Well sit back, and relax because we'll give you a truly out of this
             world experience!
           </span>
         </div>
-        <div className="rightDiv w1024:min-h-2/4 w1024:flex w1024:justify-center w1024:items-center w1024:w-auto w640:mt-0 w1024:mt-44 min-h-auto w-6/12 flex flex-col justify-end items-end">
+        <div className="rightDiv w1024:min-h-2/4 w1024:flex w1024:justify-center w1024:items-center w1024:w-auto w640:mt-0 w1024:mt-44 min-h-auto w-6/12 flex flex-col justify-end items-end w1024:pb-0 pb-8">
           <div className="btnDiv">
             <button
               className={`btn w640:w-40 w640:h-40 w1024:w-60 w1024:h-60 w-64 h-64 bg-white cursor-pointer rounded-full w640:text-2xl text-3xl font-Bellefair tracking-wider ${style.circlebutton}`}
