@@ -1,7 +1,7 @@
 <h1 align="center">Space Tourism</h1>
 
 <p align="center">
-  <img alt="Space Tourism Site" src=".github/spacetourism.png">
+  <img alt="Space Tourism Site" src="./public/quiz.png">
 </p>
 
 ## 💣 Projeto
