@@ -1,0 +1,7 @@
+.activeButton {
+  border-bottom: 2px solid white;
+}
+
+.borderFix:not(.activeButton):hover {
+  border-bottom: 2px solid #ffffff3f;
+}
