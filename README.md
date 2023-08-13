@@ -1,5 +1,9 @@
 <h1 align="center">Space Tourism</h1>
 
+<p align="center">
+  <img alt="Space Tourism Site" src="./public/images/spacetourism.png">
+</p>
+
 ## 💣 Projeto
 
 Projeto para portifólio, site responsivo usando tailwind
