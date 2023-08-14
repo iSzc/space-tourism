@@ -26,6 +26,9 @@ function Home() {
           <div className="btnDiv">
             <button
               className={`btn w640:w-40 w640:h-40 w1024:w-60 w1024:h-60 w-64 h-64 bg-white cursor-pointer rounded-full w640:text-2xl text-3xl font-Bellefair tracking-wider ${style.circlebutton}`}
+              onClick={() => {
+                alert("Funcionalidade ainda não habilitada");
+              }}
             >
               EXPLORE
             </button>
