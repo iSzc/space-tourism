@@ -25,26 +25,22 @@ export default {
         greyBG: "#2f3f50",
       },
       backgroundImage: {
-        bgHome: "url('/public/images/home/background-home-desktop.jpg')",
-        bgHometablet: "url('/public/images/home/background-home-tablet.jpg')",
-        bgHomemobi: "url('/public/images/home/background-home-mobile.jpg')",
-        bgDest:
-          "url('/public/images/destination/background-destination-desktop.jpg')",
+        bgHome: "url('/images/home/background-home-desktop.jpg')",
+        bgHometablet: "url('/images/home/background-home-tablet.jpg')",
+        bgHomemobi: "url('/images/home/background-home-mobile.jpg')",
+        bgDest: "url('/images/destination/background-destination-desktop.jpg')",
 
         bgDesttab:
-          "url('/public/images/destination/background-destination-tablet.jpg')",
+          "url('/images/destination/background-destination-tablet.jpg')",
 
         bgDestmob:
-          "url('/public/images/destination/background-destination-mobile.jpg')",
-        bgCrew: "url('/public/images/crew/background-crew-desktop.jpg')",
-        bgCrewtab: "url('/public/images/crew/background-crew-tablet.jpg')",
-        bgCrewmob: "url('/public/images/crew/background-crew-mobile.jpg')",
-        bgTech:
-          "url('/public/images/technology/background-technology-desktop.jpg')",
-        bgTechtab:
-          "url('/public/images/technology/background-technology-tablet.jpg')",
-        bgTechmob:
-          "url('/public/images/technology/background-technology-mobile.jpg')",
+          "url('/images/destination/background-destination-mobile.jpg')",
+        bgCrew: "url('/images/crew/background-crew-desktop.jpg')",
+        bgCrewtab: "url('/images/crew/background-crew-tablet.jpg')",
+        bgCrewmob: "url('/images/crew/background-crew-mobile.jpg')",
+        bgTech: "url('/images/technology/background-technology-desktop.jpg')",
+        bgTechtab: "url('/images/technology/background-technology-tablet.jpg')",
+        bgTechmob: "url('/images/technology/background-technology-mobile.jpg')",
       },
       backdropBlur: {
         xs: "1.5px",
